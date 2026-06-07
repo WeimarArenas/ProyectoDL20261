@@ -10,7 +10,7 @@
 
 ## Video de Presentación
 
-> ### **[VER VIDEO EN YOUTUBE](https://youtube.com/[PENDIENTE_DE_SUBIR])**
+> ### **[▶️ VER VIDEO EN YOUTUBE](https://youtu.be/hYI-JmHZYJU)**
 > 
 > **Duración:** 5-10 minutos  
 > **Contenido:** Exploración de datos, explicación del código, ejecución de notebooks y resultados
