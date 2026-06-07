@@ -1,0 +1,32 @@
+# Dataset externo (se descarga automáticamente)
+pathological_gait_datasets/
+
+# Archivos de preprocesado grandes (se generan automáticamente por NB02)
+cache/*.npy
+
+# Archivos temporales
+cache/metadata.pkl
+cache/tabla_resultados_final.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
