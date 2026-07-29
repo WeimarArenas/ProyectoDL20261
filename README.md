@@ -2,19 +2,8 @@
 
 **Autor:** Weimar Andres Arenas Gonzalez  
 **Email:** weimar.arenas@udea.edu.co  
-**Programa:** Maestría en Ingeniería — Universidad de Antioquia  
-**Curso:** Fundamentos de Deep Learning  
+**Programa:** Maestría en Ingeniería — Universidad de Antioquia
 **Dataset:** GIST Pathological Gait Dataset (Jun et al., 2020)
-
----
-
-## Video de Presentación
-
-> ### **[▶️ VER VIDEO EN YOUTUBE](https://youtu.be/hYI-JmHZYJU)**
-> 
-> **Duración:** 5-10 minutos  
-> **Contenido:** Exploración de datos, explicación del código, ejecución de notebooks y resultados
-
 ---
 
 ## Descripción del Proyecto
@@ -50,9 +39,6 @@ ProyectoDL20261/
 ├── 03 - Arquitectura_linea_base_RNN.ipynb    # SimpleRNN 4 capas (baseline)
 ├── 04 - LSTM_GRU.ipynb                       # LSTM y GRU 4 capas
 ├── 05 - Comparacion_resultados.ipynb         # Comparación final y métricas
-│
-├── INFORME_PROYECTO.PDF                      # Informe ejecutivo final (7 páginas)
-├── ENTREGA1.PDF                              # Informe de la Entrega 1
 ├── README.md                                 # Este archivo
 │
 ├── cache/                                    # Archivos generados automáticamente
@@ -173,8 +159,6 @@ git clone https://github.com/kooksung/pathological_gait_datasets.git
 | GRU 4L | Todos | 75.56% | ±15.81% | NB04 |
 | **GRU 4L** | **Piernas** | **88.49%** | **±7.51%** | **NB04** |
 
-★ Mejor resultado de referencia del paper
-
 **Nota:** Los resultados propios corresponden a entrenamiento rápido (10 épocas) para verificación. Con entrenamiento completo (500 épocas, GPU) se espera alcanzar accuracy similar al paper.
 
 ### Hallazgos Principales
@@ -220,13 +204,6 @@ git clone https://github.com/kooksung/pathological_gait_datasets.git
 3. **Cho, K., et al. (2014).** *Learning Phrase Representations using RNN Encoder-Decoder.* EMNLP 2014.
 
 ---
-
-## Licencia y Contacto
-
-**Autor:** Weimar Andres Arenas Gonzalez  
-**Email:** weimar.arenas@udea.edu.co  
-**Institución:** Universidad de Antioquia  
-**Programa:** Maestría en Ingeniería
 
 **Repositorio:** [github.com/WeimarArenas/ProyectoDL20261](https://github.com/WeimarArenas/ProyectoDL20261)
 
